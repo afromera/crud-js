@@ -1,11 +1,19 @@
 {
-    "users": [{
-        "id": 1,
-        "name": "Alex Fernandes Romera",
-        "email": "af_romera@hotmail.com"
-    }, {
-        "id": 2,
-        "name": "Caroline Allonso",
-        "email": "ca_allonso@hotmail.com"
-    }]
+  "users": [
+    {
+      "id": 1,
+      "name": "Alex Fernandes Romera",
+      "email": "af_romera@hotmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Caroline Allonso",
+      "email": "ca_allonso@hotmail.com"
+    },
+    {
+      "name": "Ana Maria  Braga",
+      "email": "ana.maria-braga@email.com",
+      "id": 3
+    }
+  ]
 }
