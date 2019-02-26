@@ -10,8 +10,6 @@ import Nav from '../components/templates/Nav'
 import Routes from './Routes'
 import Footer from '../components/templates/Footer'
 
-
-
 export default props =>
     <BrowserRouter>
         <div className='app'>
